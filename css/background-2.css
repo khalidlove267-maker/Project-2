@@ -1,3 +1,7 @@
 body {
   background-image: url("../images/chicago.png");
 }
+CSS
+.overlay-text {
+   color: rgba(0, 0, 0, 0.6); /* Black text with 60% opacity */
+}
