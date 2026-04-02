@@ -4,6 +4,12 @@ h1,h2,h3,p {
   font-family: "Sedan SC", serif;
   font-weight: 400;
   font-style: normal;
+  }
+li {
+ background-color:gray;
+ font-size:20px;
+ }
+  
 .box {
   width: 150px;
   height: 100px;
