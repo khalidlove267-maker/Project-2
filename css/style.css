@@ -1,19 +1,9 @@
 
     /*1. Header Styling */
-.sedan-sc-regular {
+h1,h2,h3,p {
   font-family: "Sedan SC", serif;
   font-weight: 400;
   font-style: normal;
-}body {
-  width: 90%;
-  max-width: 900px;
-  margin: 0 auto;
-  font:
-    0.9em/1.2 "Helvetica",
-    "Arial",
-    sans-serif;
-}
-
 .box {
   width: 150px;
   height: 100px;
