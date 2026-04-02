@@ -1,16 +1,5 @@
-td, th {
-	border: 1px solid;
-  }
-  /* 1. Custom Font */
-  body {
-    font-family: ' Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
-    padding: 20px;
-    }
-    /*2. Header Styling */
-    h1 {
-        color:#2c3e50;
-        text-align:center;
-        text-transform: uppercase;
-        letter-spacing :2px;
+
+    /*1. Header Styling */
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap" rel="stylesheet">

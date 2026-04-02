@@ -1,0 +1,1 @@
+yes  because 9y=10x. the prime factorization pf 10 is 2x5. by the unique factorization theorem. 9y must contain the factors 2 and 5. since 9 shares no prime factors with 10 the factors 2 and 5 must come from y. therefore, y is a multiple of 10.
