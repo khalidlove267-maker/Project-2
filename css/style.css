@@ -1,10 +1,13 @@
 
     /*1. Header Styling */
-h1,h2,h3,p {
+h1,h2,h3,{
   font-family: "Sedan SC", serif;
   font-weight: 400;
   font-style: normal;
   }
+ p {
+  font-family: Tahoma, Verdana, sans-serif;
+}
 li {
  background-color:gray;
  font-size:20px;
@@ -16,6 +19,10 @@ li {
   margin :50px auto;
   background-color: yellowgreen
   background-image :url(images/yellowgreen.png);
+  display:none;
+  body {
+  background-image :url(images/yellowgreen.png);
+  
  }
   
 .box {
