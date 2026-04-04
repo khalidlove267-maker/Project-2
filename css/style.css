@@ -13,7 +13,7 @@
     font-family : sans-serif; /*Font*/
     }
     /* Fluid Layout for Index/hobby */
-  . fluid-container {
+  .fluid-container {
     width: 90%;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
