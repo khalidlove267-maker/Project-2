@@ -4,7 +4,7 @@
   justify-content: center;
   list-style-type : none;
   padding: Irem 0;
-  background0color: #333;
+  background-color: #333;
   }
   nav li a {
     color:white;
@@ -22,5 +22,10 @@
     width: 960px;
     margin:0 auto;
     }
-    
+/* Fix image overlap */
+  img {
+   max-width:100%;
+   height: auto;
+   display: block;
+   }
     
