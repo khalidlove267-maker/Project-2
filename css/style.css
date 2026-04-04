@@ -11,8 +11,7 @@
     text-decoration: none;
     padding : 0 1.5rem;/* relative units */
     font-family : sans-serif; }/*Font*/
-    
-/* Fluid Layout for Index/hobby */
+    /* Fluid Layout for Index/hobby */
   . fluid-container {
     width: 90%;
     margin: 0 auto;
