@@ -3,12 +3,12 @@ html, body, div, span, h1, h2, h3, p, a, img, ul, li, nav, header, main, footer 
   margin:0;
   padding :0;
   border: 0;
-  font-sized: 100%
+  font-size: 100%
   font: inherit;
-  vertical-align: basline;
+  vertical-align: baseline;
   }
   /*ensure HTML5 Displays correct*/
-  header, nav, maiun, footer {
+  header, nav, main, footer {
   display : block;
   }
   body {
