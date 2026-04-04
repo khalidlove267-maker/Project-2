@@ -3,7 +3,7 @@
   display : flex;
   justify-content: center;
   list-style-type : none;
-  padding: Irem 0;
+  padding: 1rem 0;
   background-color: #333;
   }
   nav li a {
@@ -12,7 +12,7 @@
     padding : 0 1.5rem;/* relative units */
     font-family : san-serif; /*Font*/
 /* Fluid Layout for Index/hobby */
-  .fluid-container {
+  . fluid-container {
     width: 90%;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
