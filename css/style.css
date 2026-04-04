@@ -10,8 +10,8 @@
     color:white;
     text-decoration: none;
     padding : 0 1.5rem;/* relative units */
-    font-family : sans-serif; /*Font*/
-    }
+    font-family : sans-serif; }/*Font*/
+    
 /* Fluid Layout for Index/hobby */
   . fluid-container {
     width: 90%;
