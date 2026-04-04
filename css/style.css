@@ -16,8 +16,7 @@
   . fluid-container {
     width: 90%;
     margin: 0 auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 /* fixed layout for resume */  
   .fixed-container {
     width: 960px;
